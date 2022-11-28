@@ -3,3 +3,4 @@
 
 serviceAccount:
   create: false
+replicas: 4

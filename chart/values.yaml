@@ -92,6 +92,7 @@ grafana:
   enable: false
   serviceAccount:
     create: false
+  replicas: 4
 
 # Karpenter Values
 karpenter:
